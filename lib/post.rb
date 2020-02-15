@@ -8,7 +8,7 @@ class Post
   end
 
   def author_name
-    return "Sophie"
+    
   end
  
   def save
