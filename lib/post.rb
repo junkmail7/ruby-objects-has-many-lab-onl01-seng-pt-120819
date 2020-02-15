@@ -8,7 +8,7 @@ class Post
   end
 
   def author_name
-    
+    @author=Author.name
   end
  
   def save
