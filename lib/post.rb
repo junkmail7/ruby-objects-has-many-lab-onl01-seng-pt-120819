@@ -8,7 +8,7 @@ class Post
   end
 
   def author_name
-    if authoer!=nil
+    if author!=nil
     @author=author.name
     else
       return nil
